@@ -15,6 +15,11 @@
     self = [super initWithFrame:frame];
     if (self) {
         // Initialization code
+        CGRect labelFrame = CGRectMake(0, 0, 60, 22);
+        UILabel *label = [[UILabel alloc] initWithFrame:labelFrame];
+        label.text = @"Vista 2";
+        label.backgroundColor = [UIColor yellowColor];
+        [self addSubview:label];
     }
     return self;
 }
