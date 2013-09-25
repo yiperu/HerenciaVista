@@ -16,6 +16,7 @@
 		CBE06C4F17F28C2F00946338 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = CBE06C4E17F28C2F00946338 /* Default.png */; };
 		CBE06C5117F28C2F00946338 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CBE06C5017F28C2F00946338 /* Default@2x.png */; };
 		CBE06C5317F28C2F00946338 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CBE06C5217F28C2F00946338 /* Default-568h@2x.png */; };
+		CBE06C5B17F28D1E00946338 /* HerenciaController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE06C5A17F28D1E00946338 /* HerenciaController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		CBE06C4E17F28C2F00946338 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		CBE06C5017F28C2F00946338 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		CBE06C5217F28C2F00946338 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		CBE06C5917F28D1D00946338 /* HerenciaController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HerenciaController.h; sourceTree = "<group>"; };
+		CBE06C5A17F28D1E00946338 /* HerenciaController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HerenciaController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +83,8 @@
 			children = (
 				CBE06C4B17F28C2F00946338 /* AppDelegate.h */,
 				CBE06C4C17F28C2F00946338 /* AppDelegate.m */,
+				CBE06C5917F28D1D00946338 /* HerenciaController.h */,
+				CBE06C5A17F28D1E00946338 /* HerenciaController.m */,
 				CBE06C4317F28C2F00946338 /* Supporting Files */,
 			);
 			path = HerenciaVista;
@@ -166,6 +171,7 @@
 			files = (
 				CBE06C4917F28C2F00946338 /* main.m in Sources */,
 				CBE06C4D17F28C2F00946338 /* AppDelegate.m in Sources */,
+				CBE06C5B17F28D1E00946338 /* HerenciaController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
