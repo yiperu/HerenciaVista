@@ -17,6 +17,9 @@
 		CBE06C5117F28C2F00946338 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CBE06C5017F28C2F00946338 /* Default@2x.png */; };
 		CBE06C5317F28C2F00946338 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CBE06C5217F28C2F00946338 /* Default-568h@2x.png */; };
 		CBE06C5B17F28D1E00946338 /* HerenciaController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE06C5A17F28D1E00946338 /* HerenciaController.m */; };
+		CBE06C5E17F28DEB00946338 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE06C5D17F28DEB00946338 /* MainView.m */; };
+		CBE06C6117F28DFB00946338 /* View1.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE06C6017F28DFB00946338 /* View1.m */; };
+		CBE06C6417F28E0900946338 /* View2.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE06C6317F28E0900946338 /* View2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +38,12 @@
 		CBE06C5217F28C2F00946338 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		CBE06C5917F28D1D00946338 /* HerenciaController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HerenciaController.h; sourceTree = "<group>"; };
 		CBE06C5A17F28D1E00946338 /* HerenciaController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HerenciaController.m; sourceTree = "<group>"; };
+		CBE06C5C17F28DEB00946338 /* MainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainView.h; sourceTree = "<group>"; };
+		CBE06C5D17F28DEB00946338 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainView.m; sourceTree = "<group>"; };
+		CBE06C5F17F28DFB00946338 /* View1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View1.h; sourceTree = "<group>"; };
+		CBE06C6017F28DFB00946338 /* View1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View1.m; sourceTree = "<group>"; };
+		CBE06C6217F28E0900946338 /* View2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View2.h; sourceTree = "<group>"; };
+		CBE06C6317F28E0900946338 /* View2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +94,12 @@
 				CBE06C4C17F28C2F00946338 /* AppDelegate.m */,
 				CBE06C5917F28D1D00946338 /* HerenciaController.h */,
 				CBE06C5A17F28D1E00946338 /* HerenciaController.m */,
+				CBE06C5C17F28DEB00946338 /* MainView.h */,
+				CBE06C5D17F28DEB00946338 /* MainView.m */,
+				CBE06C5F17F28DFB00946338 /* View1.h */,
+				CBE06C6017F28DFB00946338 /* View1.m */,
+				CBE06C6217F28E0900946338 /* View2.h */,
+				CBE06C6317F28E0900946338 /* View2.m */,
 				CBE06C4317F28C2F00946338 /* Supporting Files */,
 			);
 			path = HerenciaVista;
@@ -172,6 +187,9 @@
 				CBE06C4917F28C2F00946338 /* main.m in Sources */,
 				CBE06C4D17F28C2F00946338 /* AppDelegate.m in Sources */,
 				CBE06C5B17F28D1E00946338 /* HerenciaController.m in Sources */,
+				CBE06C5E17F28DEB00946338 /* MainView.m in Sources */,
+				CBE06C6117F28DFB00946338 /* View1.m in Sources */,
+				CBE06C6417F28E0900946338 /* View2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
