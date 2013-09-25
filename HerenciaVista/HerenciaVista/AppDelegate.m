@@ -23,7 +23,7 @@
     //self.rootViewController.view.backgroundColor = [UIColor grayColor];
     
     
-    self.window.backgroundColor = [UIColor whiteColor];
+    self.window.backgroundColor = [UIColor purpleColor];
     [self.window addSubview:self.rootViewController.view];
     [self.window makeKeyAndVisible];
     return YES;

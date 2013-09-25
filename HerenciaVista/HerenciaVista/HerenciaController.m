@@ -20,6 +20,7 @@
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
+        
         // Personalizacion de la inicializacion
         mainView = [[MainView alloc] initWithFrame:[[UIScreen mainScreen] applicationFrame]];
         
